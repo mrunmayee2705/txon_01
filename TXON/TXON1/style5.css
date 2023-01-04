@@ -1,0 +1,91 @@
+.navbar{
+    margin: 0%;
+    display: flex;
+    list-style: none;
+    list-style: none;
+    height: 60px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(0, 0, 0);
+    font-size: 25px;
+
+}
+*{
+    margin: 0%;
+    padding: 0;
+}
+
+.image2{
+    background-image: url('../TXON1/tac.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: 100%;
+    
+}
+h1{
+    font-size: 80px;
+    font-weight: 200;
+    position: relative;
+    text-align: center;
+    
+    
+    
+}
+
+p{
+    font-size: 32px;
+    font-weight: 200;
+    margin-left: 1%;
+
+}
+
+nav.menu{
+    width: 40%;
+    height: 89%;
+}
+
+footer{
+    height: 20px;
+    font-size: 35px;
+    text-align: center;
+    font-size: 20px;
+   
+}
+
+.image3{
+    width: 220px;
+    height: 170px;
+    border-radius: 10px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+
+}
+
+section{
+    height: 800px;
+    
+}
+.image4{
+    width: 320px;
+    height: 270px;
+    border-radius: 10px;
+    margin: 3.5%;   
+    
+}
+
+h2{
+    align-content: center;
+    text-align: center;
+    
+}
+
+
+.button{
+    position: center;
+    margin: 910px; 
+    font-size: 20px;
+}
